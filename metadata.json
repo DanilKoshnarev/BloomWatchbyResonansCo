@@ -1,0 +1,5 @@
+{
+  "name": "BloomWatch by Resonans Co",
+  "description": "An Earth observation application for global flowering phenology. This tool visualizes plant blooming events worldwide, helping users monitor, predict, and manage vegetation health from a unique, pollinator-inspired perspective, using simulated NASA Earth observation data.",
+  "requestFramePermissions": []
+}
